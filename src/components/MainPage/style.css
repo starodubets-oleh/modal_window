@@ -1,0 +1,16 @@
+.page{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    min-height: 800px;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    font-family: 'Noto Sans JP', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
